@@ -83,4 +83,4 @@ ON:
 
 
 ## RESULT
-The project successfully achieved its objective of creating a simple yet effective LED control system using an Arduino and a push button
+The project desiged and implemented  a system for LED control using an Arduino microcontroller and a push button successfully 
