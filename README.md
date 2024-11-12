@@ -70,11 +70,13 @@ Weighing Machines </br>
 
 ## OUTPUT
 OFF:
+
 <img src="https://github.com/user-attachments/assets/b92e269c-69d7-4924-888b-6e816dce0640"  width="600" height="500"/>
 
 
 
 ON:
+
 <img src="https://github.com/user-attachments/assets/9885b97a-5a75-4d9d-b052-ac30c7c63d98"  width="600" height="500"/>
 
 
